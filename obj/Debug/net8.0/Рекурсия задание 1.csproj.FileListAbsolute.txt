@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\bin\Debug\net8.0\Рекурсия задание 1.exe
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\bin\Debug\net8.0\Рекурсия задание 1.deps.json
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\bin\Debug\net8.0\Рекурсия задание 1.runtimeconfig.json
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\bin\Debug\net8.0\Рекурсия задание 1.dll
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\bin\Debug\net8.0\Рекурсия задание 1.pdb
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.AssemblyInfo.cs
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.sourcelink.json
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.dll
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\refint\Рекурсия задание 1.dll
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.pdb
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\Рекурсия задание 1.genruntimeconfig.cache
+C:\Users\Илья\Desktop\WCode\Рекурсия\Рекурсия задание 1\obj\Debug\net8.0\ref\Рекурсия задание 1.dll
